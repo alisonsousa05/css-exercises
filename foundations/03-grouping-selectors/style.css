@@ -1,0 +1,12 @@
+.ambos{
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+#botao-1{
+    color:white;
+    background-color: black;
+    font-weight: bold;
+}
+#botao-2{
+    background-color: yellow;
+}
